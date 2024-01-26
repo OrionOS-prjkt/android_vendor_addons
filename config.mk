@@ -405,9 +405,6 @@ PRODUCT_PACKAGES += \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidVividThemeOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
     PacleggersThemeSystemUIOverlay \
@@ -422,7 +419,10 @@ PRODUCT_PACKAGES += \
     ShishuImmensityThemeSystemUIOverlay \
     ShishuNightsThemeAndroidOverlay \
     ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay
+    ShishuNightsThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
