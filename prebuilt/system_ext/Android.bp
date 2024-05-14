@@ -1,0 +1,13 @@
+android_app_import {
+	name: "WallpaperPickerGoogleRelease",
+	owner: "gms",
+	apk: "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
+	overrides: ["WallpaperPicker", "WallpaperPicker2", "WallpaperCropper"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
