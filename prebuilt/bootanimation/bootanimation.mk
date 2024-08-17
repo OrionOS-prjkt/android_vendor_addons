@@ -17,3 +17,9 @@ else
     endif
     PRODUCT_COPY_FILES += vendor/addons/prebuilt/bootanimation/bootanimation_1080.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip
 endif
+
+PRODUCT_COPY_FILES += \
+    vendor/addons/prebuilt/bootanimation/bootanimation_cyberpunk.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_cyberpunk.zip \
+    vendor/addons/prebuilt/bootanimation/bootanimation_valorant.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_valorant.zip \
+    vendor/addons/prebuilt/bootanimation/bootanimation_google.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_google.zip \
+    vendor/addons/prebuilt/bootanimation/bootanimation_google_monet.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_google_monet.zip
