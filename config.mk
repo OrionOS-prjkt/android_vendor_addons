@@ -165,6 +165,7 @@ PRODUCT_PACKAGES += \
     FontOneUISansOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
+    FontOppoSansOverlay \
     FontOswaldOverlay \
     FontPlayOverlay \
     FontPoppinsSourceOverlay \
