@@ -151,6 +151,7 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
     FontFreshLemonsOverlay \
+    FontFucekOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
