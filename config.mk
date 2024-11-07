@@ -157,6 +157,7 @@ PRODUCT_PACKAGES += \
     FontInterSourceOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
+    FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
