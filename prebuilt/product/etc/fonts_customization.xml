@@ -236,6 +236,21 @@
         <font weight="300" style="normal">Floorlight.ttf</font>
     </family>
 
+    <!-- Fresh Lemons -->
+    <family customizationType="new-named-family" name="freshlemons">
+        <font weight="400" style="normal">FreshLemons.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="freshlemons" weight="600" />
+    <alias name="oduda-bold" to="freshlemons" weight="700" />
+    <alias name="times" to="freshlemons" />
+    <alias name="times new roman" to="freshlemons" />
+    <alias name="palatino" to="freshlemons" />
+    <alias name="georgia" to="freshlemons" />
+    <alias name="baskerville" to="freshlemons" />
+    <alias name="goudy" to="freshlemons" />
+    <alias name="fantasy" to="freshlemons" />
+    <alias name="ITC Stone Serif" to="freshlemons" />
+
     <!-- GautsMotelUpperRight -->
     <family customizationType="new-named-family" name="GautsMotelUpperRight">
         <font weight="300" style="normal">GautsMotelUpperRight.ttf</font>
