@@ -146,6 +146,7 @@ PRODUCT_PACKAGES += \
     FontComicSansOverlay \
     FontCookieRunOverlay \
     FontCoolstoryOverlay \
+    FontEvolveSansOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontGrandHotelOverlay \
