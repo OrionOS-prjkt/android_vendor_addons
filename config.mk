@@ -154,6 +154,7 @@ PRODUCT_PACKAGES += \
     FontFucekOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
+    FontInterSourceOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
     FontNokiaPureOverlay \
