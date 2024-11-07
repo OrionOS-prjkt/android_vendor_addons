@@ -146,18 +146,26 @@ PRODUCT_PACKAGES += \
     FontComicSansOverlay \
     FontCookieRunOverlay \
     FontCoolstoryOverlay \
+    FontEvolveSansOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
+    FontFluidSansOverlay \
+    FontFreshLemonsOverlay \
+    FontFucekOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
+    FontInterSourceOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
+    FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontNunitoOverlay \
+    FontOneUISansOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
+    FontOppoSansOverlay \
     FontOswaldOverlay \
     FontPlayOverlay \
     FontPoppinsSourceOverlay \

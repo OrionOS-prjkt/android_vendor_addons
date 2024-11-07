@@ -181,6 +181,21 @@
         <font weight="300" style="normal">ELRIOTT2.ttf</font>
     </family>
 
+    <!-- EvolveSans -->
+    <family customizationType="new-named-family" name="evolvesans">
+        <font weight="400" style="normal">EvolveSans.ttf</font>
+    </family>
+    <alias name="evolvesans-semi-bold" to="evolvesans" weight="600" />
+    <alias name="evolvesans-bold" to="evolvesans" weight="700" />
+    <alias name="times" to="evolvesans" />
+    <alias name="times new roman" to="evolvesans" />
+    <alias name="palatino" to="evolvesans" />
+    <alias name="georgia" to="evolvesans" />
+    <alias name="baskerville" to="evolvesans" />
+    <alias name="goudy" to="evolvesans" />
+    <alias name="fantasy" to="evolvesans" />
+    <alias name="ITC Stone Serif" to="evolvesans" />
+
     <!-- Exotwo -->
     <family customizationType="new-named-family" name="exotwo">
         <font weight="400" style="normal">Exotwo.ttf</font>
@@ -203,10 +218,53 @@
     <alias name="fifa2018-semi-bold" to="fifa2018" weight="600" />
     <alias name="fifa2018-bold" to="fifa2018" weight="700" />
 
+    <!-- Fluid Sans -->
+    <family customizationType="new-named-family" name="fluid-sans">
+        <font weight="400" style="normal">FluidSans-Regular.ttf</font>
+        <font weight="400" style="italic">FluidSans-Italic.ttf</font>
+        <font weight="500" style="normal">FluidSans-Medium.ttf</font>
+        <font weight="500" style="italic">FluidSans-MediumItalic.ttf</font>
+        <font weight="700" style="normal">FluidSans-Bold.ttf</font>
+        <font weight="700" style="italic">FluidSans-BoldItalic.ttf</font>
+    </family>
+    <alias name="fluid-sans-regular" to="fluid-sans" weight="400" />
+    <alias name="fluid-sans-medium" to="fluid-sans" weight="500" />
+    <alias name="fluid-sans-bold" to="fluid-sans" weight="700" />
+
     <!-- Floorlight -->
     <family customizationType="new-named-family" name="Floorlight">
         <font weight="300" style="normal">Floorlight.ttf</font>
     </family>
+
+    <!-- Fresh Lemons -->
+    <family customizationType="new-named-family" name="freshlemons">
+        <font weight="400" style="normal">FreshLemons.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="freshlemons" weight="600" />
+    <alias name="oduda-bold" to="freshlemons" weight="700" />
+    <alias name="times" to="freshlemons" />
+    <alias name="times new roman" to="freshlemons" />
+    <alias name="palatino" to="freshlemons" />
+    <alias name="georgia" to="freshlemons" />
+    <alias name="baskerville" to="freshlemons" />
+    <alias name="goudy" to="freshlemons" />
+    <alias name="fantasy" to="freshlemons" />
+    <alias name="ITC Stone Serif" to="freshlemons" />
+
+    <!-- Fucek -->
+    <family customizationType="new-named-family" name="fucek">
+        <font weight="400" style="normal">Fucek.ttf</font>
+    </family>
+    <alias name="fucek-semi-bold" to="fucek" weight="600" />
+    <alias name="fucek-bold" to="fucek" weight="700" />
+    <alias name="times" to="fucek" />
+    <alias name="times new roman" to="fucek" />
+    <alias name="palatino" to="fucek" />
+    <alias name="georgia" to="fucek" />
+    <alias name="baskerville" to="fucek" />
+    <alias name="goudy" to="fucek" />
+    <alias name="fantasy" to="fucek" />
+    <alias name="ITC Stone Serif" to="fucek" />
 
     <!-- GautsMotelUpperRight -->
     <family customizationType="new-named-family" name="GautsMotelUpperRight">
@@ -454,6 +512,16 @@
         <font weight="300" style="normal">HotSweat.ttf</font>
     </family>
 
+    <!-- Inter -->
+  <family customizationType="new-named-family" name="inter_custom">
+    <font weight="400" style="normal">Inter-Regular.ttf</font>
+    <font weight="400" style="italic">Inter-Italic.ttf</font>
+    <font weight="500" style="normal">Inter-Medium.ttf</font>
+    <font weight="500" style="italic">Inter-MediumItalic.ttf</font>
+  </family>
+  <alias name="inter_custom_regular" to="inter_custom" weight="400" />
+  <alias name="inter_custom_medium" to="inter_custom" weight="500" />
+
     <!-- Karamuruh -->
     <family customizationType="new-named-family" name="Karamuruh">
         <font weight="300" style="normal">Karamuruh.ttf</font>
@@ -517,6 +585,23 @@
         <font weight="300" style="normal">MessingLettern.ttf</font>
     </family>
 
+    <!-- MiSans -->
+    <family customizationType="new-named-family" name="misans">
+    <font weight="300" style="normal">MiLanProVF.ttf
+        <axis tag="wght" stylevalue="300"/>
+    </font>
+    <font weight="400" style="normal">MiLanProVF.ttf
+        <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">MiLanProVF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">MiLanProVF.ttf
+        <axis tag="wght" stylevalue="600"/>
+    </font>
+    </family>
+    <alias name="misans-medium" to="misans" weight="400" />
+
     <!-- MonbijouxClownpiece -->
     <family customizationType="new-named-family" name="MonbijouxClownpiece">
         <font weight="300" style="normal">MonbijouxClownpiece.ttf</font>
@@ -572,6 +657,65 @@
     <alias name="nunito-semi-bold" to="nunito" weight="600" />
     <alias name="nunito-bold" to="nunito" weight="700" />
 
+    <!-- OneUI Sans -->
+    <family customizationType="new-named-family" name="oneuisans">
+    <font weight="100" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="100"/>
+    </font>
+    <font weight="100" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="100"/>
+    </font>
+    <font weight="200" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="200"/>
+    </font>
+    <font weight="200" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="200"/>
+    </font>
+    <font weight="300" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="300"/>
+    </font>
+    <font weight="300" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="300"/>
+    </font>
+    <font weight="400" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="400" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="500" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="700" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="700" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="800" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="800" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="900" style="normal">OneUIRoman-VF.ttf
+        <axis tag="wght" stylevalue="900"/>
+    </font>
+    <font weight="900" style="italic">OneUIItalic-VF.ttf
+        <axis tag="wght" stylevalue="900"/>
+    </font>
+    </family>
+    <alias name="oneuisans-medium" to="oneuisans" weight="500" />
+
     <!-- OnePlusSans -->
     <family customizationType="new-named-family" name="op-sans">
        <font weight="100" style="normal">OnePlusSans-Thin.ttf</font>
@@ -594,6 +738,101 @@
     <alias name="op-sans-medium" to="op-sans" weight="500" />
     <alias name="op-sans-bold" to="op-sans" weight="700" />
     <alias name="op-sans-black" to="op-sans" weight="900" />
+
+    <!-- Oppo Sans -->
+  <family customizationType="new-named-family" name="opposans">
+    <font weight="100" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="250" />
+    </font>
+    <font weight="200" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="350" />
+    </font>
+    <font weight="300" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="450" />
+    </font>
+    <font weight="400" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="550" />
+    </font>
+    <font weight="500" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="620" />
+    </font>
+    <font weight="600" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="690" />
+    </font>
+    <font weight="700" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="760" />
+    </font>
+    <font weight="800" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="830" />
+    </font>
+    <font weight="900" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="900" />
+    </font>
+    <font weight="100" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="250" />
+    </font>
+    <font weight="200" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="350" />
+    </font>
+    <font weight="300" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="450" />
+    </font>
+    <font weight="400" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="550" />
+    </font>
+    <font weight="500" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="620" />
+    </font>
+    <font weight="600" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="690" />
+    </font>
+    <font weight="700" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="760" />
+    </font>
+    <font weight="800" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="830" />
+    </font>
+    <font weight="900" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="900" />
+    </font>
+  </family>
+  <alias name="opposans-medium" to="opposans" weight="500" />
 
     <!-- Oswald -->
     <family customizationType="new-named-family" name="oswald">
